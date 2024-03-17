@@ -23,7 +23,7 @@ const CustomImageRenderer = ({ data }: any) => {
   const src = data.file.url;
 
   return (
-    <div className="w-full min-h-[15rem]">
+    <div className="w-full min-h-[15rem] relative">
       <Image src={src} alt="image" className="object-contain" fill />
     </div>
   );
@@ -31,7 +31,7 @@ const CustomImageRenderer = ({ data }: any) => {
 
 const CustomCodeRenderer = ({ data }: any) => {
   return (
-    <pre className="bg-gray-800  p-4 rounded-md">
+    <pre className="bg-gray-800 p-4 rounded-md">
       <code className="text-gray-100 text-sm">{data.code}</code>
     </pre>
   );
