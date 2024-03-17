@@ -1,10 +1,8 @@
-
 # Breaddit
 
 Breaddit is a Readdit clone.
 
 Join the conversation on Breaddit, the community-driven platform where users upvote and downvote content, submit links and text posts, and engage in discussions on a variety of topics. Discover, share, and connect with like-minded individuals on Breaddit.
-
 
 ## Features
 
@@ -14,13 +12,10 @@ Join the conversation on Breaddit, the community-driven platform where users upv
 - Voting System: Upvote and downvote posts and comments to curate content.
 - Infinite scrolling.
 - Rich Text Editor: Utilize Editor.js for a powerful and intuitive writing experience with features like:
-    - Text formatting
-    - Image uploads using Uploadthing
-    - Code snippets
-    - And more!
-
-
-
+  - Text formatting
+  - Image uploads using Uploadthing
+  - Code snippets
+  - And more!
 
 ## Tech Stack
 
@@ -40,4 +35,4 @@ Join the conversation on Breaddit, the community-driven platform where users upv
 
 ## Demo
 
-
+[https://breaddit-sigma.vercel.app]
