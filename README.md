@@ -12,6 +12,7 @@ Join the conversation on Breaddit, the community-driven platform where users upv
 - Subreddits: Create and manage communities focused on specific topics.
 - Posts & Comments: Create text and image-rich posts, comment on existing posts, and engage in discussions.
 - Voting System: Upvote and downvote posts and comments to curate content.
+- Infinite scrolling.
 - Rich Text Editor: Utilize Editor.js for a powerful and intuitive writing experience with features like:
     - Text formatting
     - Image uploads using Uploadthing
@@ -35,7 +36,7 @@ Join the conversation on Breaddit, the community-driven platform where users upv
 - React Query
 - Axios
 - Uploadthing
-
+- Redis
 
 ## Demo
 
